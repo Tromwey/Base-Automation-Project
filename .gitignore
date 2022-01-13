@@ -2,3 +2,4 @@
 node_modules
 allure
 FrontEnd/reports/*
+!FrontEnd/reports/.gitkeep

@@ -1,18 +1,18 @@
 {
-  "name": "baseautomationproject",
+  "name": "base-automation-project",
   "version": "1.0.0",
   "description": "Start any automation from scratch with TestCafe",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tromwey/BaseAutomationProject.git"
+    "url": "git+https://github.com/Tromwey/Base-Automation-Project.git"
   },
   "author": "Eric Briseno",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tromwey/BaseAutomationProject/issues"
+    "url": "https://github.com/Tromwey/Base-Automation-Project/issues"
   },
-  "homepage": "https://github.com/Tromwey/BaseAutomationProject#readme",
+  "homepage": "https://github.com/Tromwey/Base-Automation-Project#readme",
   "scripts": {
     "test": "testcafe chrome ./FrontEnd/tests",
     "test-smoke": "testcafe chrome ./FrontEnd/tests --test-meta type=smoke --reporter allure",
